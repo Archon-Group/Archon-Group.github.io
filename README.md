@@ -39,6 +39,6 @@
     </table>
 
   <div style="margin-top: 30px; text-align: center;">
-        <a href="YOUR_TYPEFORM_LINK" style="background: #00ffcc; color: #000; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px;">AUTHORIZE ALPHA DEPLOYMENT</a>
+        <a href="https://form.typeform.com/to/biRSkkuK" style="background: #00ffcc; color: #000; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px;">AUTHORIZE ALPHA DEPLOYMENT</a>
     </div>
 </section>
